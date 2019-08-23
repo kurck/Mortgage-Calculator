@@ -1,4 +1,4 @@
-# Python Mortgage Payment Calculator
+# Python Mortgage Calculator
 
 ### Description
 
